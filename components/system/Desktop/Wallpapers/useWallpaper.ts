@@ -3,7 +3,7 @@ import {
   BRIGHT_WALLPAPERS,
   cssFit,
   WALLPAPER_PATHS,
-  WALLPAPER_WORKERS
+  WALLPAPER_WORKERS,
 } from "components/system/Desktop/Wallpapers/constants";
 import type { WallpaperConfig } from "components/system/Desktop/Wallpapers/types";
 import { config as vantaConfig } from "components/system/Desktop/Wallpapers/vantaWaves/config";
@@ -19,7 +19,7 @@ import {
   getYouTubeUrlId,
   isYouTubeUrl,
   jsonFetch,
-  viewWidth
+  viewWidth,
 } from "utils/functions";
 
 declare global {
