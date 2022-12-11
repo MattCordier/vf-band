@@ -1,4 +1,4 @@
-## 🌌 **daedalOS** 🌌
+## 🌌 **vishfish.com based off of daedalOS** 🌌
 
 ### _Desktop environment in the browser_
 
